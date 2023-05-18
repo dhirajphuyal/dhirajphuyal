@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+| Rank | LANGUAGES       |
+|-----:|-----------------|
+|     1| NEPALI          |
+|     2| ENGLISH         |
+|     3| HINDI           |
+|     4| BEGINNER GERMAN | 
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
+
 <!--
 **dhirajphuyal/dhirajphuyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
