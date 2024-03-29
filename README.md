@@ -6,20 +6,6 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-| Rank | LANGUAGES       |
-|-----:|-----------------|
-|     1| NEPALI          |
-|     2| ENGLISH         |
-|     3| HINDI           |
-|     4| BEGINNER GERMAN | 
-
-<details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>
-
 <!--
 **dhirajphuyal/dhirajphuyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
